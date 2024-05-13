@@ -1,1 +1,5 @@
-This project was part of final course project in web programming where we had to develop a practical managment system working in team. There is a guide in the project on how to use the project
+# Student Practical Management System
+
+This project, developed as part of my Web Programming course, represents my inaugural full-scale project endeavor. The system, constructed with HTML, CSS, JavaScript, PHP, and MySQL, stands as a testament to my foundational skills in web development. The accompanying file provides comprehensive documentation, detailing all system features and offering a user-friendly guide for seamless navigation.
+
+Feel free to reach out for further inquiries or assistance.
